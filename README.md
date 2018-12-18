@@ -53,10 +53,15 @@ Javascript tiene la ventaja de ser incorporado en cualquier página web, puede s
 
 
 
-
 ## Herramientas de desarrollo
 
-Debemos instalar Visual Studio Code  y node.js , una vez que tenemos instalado node.js desde la misma aplicacion instalamos la extension  code runner.
+1- Lo primero que debemos hacer es descargar e instalar Node.js.
+Link de descarga: https://nodejs.org/es/download/
+
+2-Utilizaremos Visual Studio Code, en caso de no tenerlo debemos descargarlo e instalarlo en nuestro equipo.
+Link de descarga: https://code.visualstudio.com/download
+
+3- Instalamos "Coderunner" desde Visual Studio Code que nos servirá para ejecutar los programas en consola.
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
@@ -64,7 +69,6 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 ### 1. ¡Hola mundo!
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
-<img src="Captura1.PNG">
 
 ### 2. Pirámide
 
