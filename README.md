@@ -50,7 +50,7 @@ Javascript es un lenguaje con muchas posibilidades, utilizado para crear pequeñ
 
 Este lenguaje posee varias características, entre ellas podemos mencionar que es un lenguaje basado en acciones que posee menos restricciones. Además, es un lenguaje que utiliza Windows y sistemas X-Windows, gran parte de la programación en este lenguaje está centrada en describir objetos, escribir funciones que respondan a movimientos del mouse, aperturas, utilización de teclas, cargas de páginas entre otros.
 Javascript tiene la ventaja de ser incorporado en cualquier página web, puede ser ejecutado sin la necesidad de instalar otro programa para ser visualizado.
-<img src="captura1.pgn">
+<img src="Captura1.PNG">
 
 
 
