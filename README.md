@@ -46,10 +46,11 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
+
+
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
-
+Debemos instalar Visual Studio Code  y node.js , una vez que tenemos instalado node.js desde la misma aplicacion instalamos la extension  code runner.
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
