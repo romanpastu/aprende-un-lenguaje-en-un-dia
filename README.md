@@ -44,32 +44,37 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
-¿Qué es Javascript?
+**La fundacióm Mozilla mantiene toda la documentación sobre Javascript.**
+Manual de JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+**¿Qué es Javascript?**
 Javascript es un lenguaje con muchas posibilidades, utilizado para crear pequeños programas que luego son insertados en una página web y en programas más grandes, orientados a objetos mucho más complejos. Con Javascript podemos crear diferentes efectos e interactuar con nuestros usuarios.
 
-Historia:
+**Historia:**
 
 El desarrollador que empezó trabajar con este potente y exitoso lenguaje de programación fue Brendan Eich, trabajador por aquel tiempo de Netscape. En un primer momento, lo que hoy conocemos como JavaScript no existía, sino un prototipo que aún dejaba mucho por desear y aún requería de una serie de desarrollos, actualizaciones y avances que la convertirían en el estándar que es hoy día. De hecho, no se conocía ni como Java ni como JavaScript, sino como Mocha, pasó a llamarse LivesCRIPT un tiempo después y posteriormente evolucionaría en el nombre y la denominación que tenemos hoy en día. Para cuando cambiaron el nombre, la empresa Netscape agregó la compatibilidad con la tecnología Java a su propio navegador, conocido como Netscape Navigator. Coincidió con diciembre del año 1995, por lo que podríamos decir que JavaScript surgió en 1995. 
 
 En un primer momento generó algo de confusión debido a la similitud del nombre JavaScript con Java y a los cambios de tecnología. Se empezó a destacar esta como la opción más recomendable para la programación web y enseguida se hizo popular. Microsoft trató de copiar este lenguaje y presentó el conocido como JScript, que se parece mucho en nombre y en prestaciones, pero que no era compatible con ECMA y por ello podría dejar mucho que desear a los profesionales y a los expertos y programadores que trabajaban con ello.
 
-Ventajas :</br>
-1 Es un lenguaje muy sencillo.</br>
-2 Es rápido, por lo tanto tiende a ejecutar las funciones inmediatamente.</br>
-3 Cuenta con múltiples opciones de efectos visuales.</br>
-4 Es soportado por los navegadores más populares y es compatible con los dispositivos más modernos, incluyendo iPhone, móviles y PS3.</br>
-5 Es muy versátil, puesto que es muy útil para desarrollar páginas dinámicas y aplicaciones web.</br>
-6 Es una buena solución para poner en práctica la validación de datos en un formulario.</br>
-7 Es multiplataforma, puede ser ejecutado de manera híbrida en cualquier sistema operativo móvil.</br>
+**Ventajas:**
+1 Es un lenguaje muy sencillo.
+2 Es rápido, por lo tanto tiende a ejecutar las funciones inmediatamente.
+3 Cuenta con múltiples opciones de efectos visuales.
+4 Es soportado por los navegadores más populares y es compatible con los dispositivos más modernos, incluyendo iPhone, móviles y PS3.
+5 Es muy versátil, puesto que es muy útil para desarrollar páginas dinámicas y aplicaciones web.
+6 Es una buena solución para poner en práctica la validación de datos en un formulario.
+7 Es multiplataforma, puede ser ejecutado de manera híbrida en cualquier sistema operativo móvil.
 
-Desventajas:</br>
-1 Tiende a introducir gran cantidad de fragmentos de código en los sitios web.</br>
-2 Sus opciones 3D son limitadas, si se quiere utilizar este lenguaje de programación para crear un juego, deben emplearse otras herramientas.</br>
-3 No es compatible en todos los navegadores de manera uniforme.</br>
-4 Los usuarios tienen la opción de desactivar JavaScript desde su navegador.</br>
-5 Sus script son limitados por razones de seguridad y no es posible realizar todo con JavaScript, por lo tanto es necesario     complementarlo con otros lenguajes evolucionados y más seguros. Esta es una de las características de JavaScript que algunos expertos lo contemplan como una ventaja y otros como una desventaja.</br>
+**Desventajas:**
+1 Tiende a introducir gran cantidad de fragmentos de código en los sitios web.
+2 Sus opciones 3D son limitadas, si se quiere utilizar este lenguaje de programación para crear un juego, deben emplearse otras herramientas.
+3 No es compatible en todos los navegadores de manera uniforme.
+4 Los usuarios tienen la opción de desactivar JavaScript desde su navegador.
+5 Sus script son limitados por razones de seguridad y no es posible realizar todo con JavaScript, por lo tanto es necesario     complementarlo con otros lenguajes evolucionados y más seguros. Esta es una de las características de JavaScript que algunos expertos lo contemplan como una ventaja y otros como una desventaja.
 
+**¿En qué campos se utiliza?**
+
+Este lenguaje se utiliza en el desarrollo web, y aunque en un principio fue pensado para ser utilizado en front-end. Hoy en día, también se utiliza en Back-end gracias a runtimes, como node.js.
 
 
 ## Herramientas de desarrollo
