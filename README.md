@@ -48,8 +48,11 @@ Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe 
 ¿Qué es Javascript?
 Javascript es un lenguaje con muchas posibilidades, utilizado para crear pequeños programas que luego son insertados en una página web y en programas más grandes, orientados a objetos mucho más complejos. Con Javascript podemos crear diferentes efectos e interactuar con nuestros usuarios.
 
-Este lenguaje posee varias características, entre ellas podemos mencionar que es un lenguaje basado en acciones que posee menos restricciones. Además, es un lenguaje que utiliza Windows y sistemas X-Windows, gran parte de la programación en este lenguaje está centrada en describir objetos, escribir funciones que respondan a movimientos del mouse, aperturas, utilización de teclas, cargas de páginas entre otros.
-Javascript tiene la ventaja de ser incorporado en cualquier página web, puede ser ejecutado sin la necesidad de instalar otro programa para ser visualizado.
+Historia:
+
+El desarrollador que empezó trabajar con este potente y exitoso lenguaje de programación fue Brendan Eich, trabajador por aquel tiempo de Netscape. En un primer momento, lo que hoy conocemos como JavaScript no existía, sino un prototipo que aún dejaba mucho por desear y aún requería de una serie de desarrollos, actualizaciones y avances que la convertirían en el estándar que es hoy día. De hecho, no se conocía ni como Java ni como JavaScript, sino como Mocha, pasó a llamarse LivesCRIPT un tiempo después y posteriormente evolucionaría en el nombre y la denominación que tenemos hoy en día. Para cuando cambiaron el nombre, la empresa Netscape agregó la compatibilidad con la tecnología Java a su propio navegador, conocido como Netscape Navigator. Coincidió con diciembre del año 1995, por lo que podríamos decir que JavaScript surgió en 1995. 
+
+En un primer momento generó algo de confusión debido a la similitud del nombre JavaScript con Java y a los cambios de tecnología. Se empezó a destacar esta como la opción más recomendable para la programación web y enseguida se hizo popular. Microsoft trató de copiar este lenguaje y presentó el conocido como JScript, que se parece mucho en nombre y en prestaciones, pero que no era compatible con ECMA y por ello podría dejar mucho que desear a los profesionales y a los expertos y programadores que trabajaban con ello.
 
 Ventajas :
 1 Es un lenguaje muy sencillo.
