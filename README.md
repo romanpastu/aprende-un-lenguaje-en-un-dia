@@ -67,13 +67,15 @@ Link de descarga: https://code.visualstudio.com/download
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
 
 ### 1. ¡Hola mundo!
+Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 ```javascript
 console.log("hola mundo");
 ```
-Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+
 <img src="Captura1.PNG">
 
 ### 2. Pirámide
+Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 ```javascript
 var numFilas = prompt("Numero de filas");
 
@@ -90,9 +92,10 @@ for(let altura = 1; altura<=numFilas; altura++){
     console.log();
 } 
 ```
-Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
+<img src="piramide.png">
 ### 3. Arrays y números aleatorios
+Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 ```javascript
 var arrayNumeros = [];
 for (let i = 0; i < 20; i++) {
@@ -124,7 +127,8 @@ for (let i = 0; i < arrayNumeros.length; i++) {
 console.log("primos y no primos----");
 console.log(primos);
 ```
-Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+<img src="numerosAleatorios.png">
+
 
 ## Presentación de resultados
 
