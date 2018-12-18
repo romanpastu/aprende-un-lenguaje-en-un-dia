@@ -51,6 +51,22 @@ Javascript es un lenguaje con muchas posibilidades, utilizado para crear pequeñ
 Este lenguaje posee varias características, entre ellas podemos mencionar que es un lenguaje basado en acciones que posee menos restricciones. Además, es un lenguaje que utiliza Windows y sistemas X-Windows, gran parte de la programación en este lenguaje está centrada en describir objetos, escribir funciones que respondan a movimientos del mouse, aperturas, utilización de teclas, cargas de páginas entre otros.
 Javascript tiene la ventaja de ser incorporado en cualquier página web, puede ser ejecutado sin la necesidad de instalar otro programa para ser visualizado.
 
+Ventajas :
+1 Es un lenguaje muy sencillo.
+2 Es rápido, por lo tanto tiende a ejecutar las funciones inmediatamente.
+3 Cuenta con múltiples opciones de efectos visuales.
+4 Es soportado por los navegadores más populares y es compatible con los dispositivos más modernos, incluyendo iPhone, móviles y PS3.
+5 Es muy versátil, puesto que es muy útil para desarrollar páginas dinámicas y aplicaciones web.
+6 Es una buena solución para poner en práctica la validación de datos en un formulario.
+7 Es multiplataforma, puede ser ejecutado de manera híbrida en cualquier sistema operativo móvil.
+
+Desventajas:
+1 Tiende a introducir gran cantidad de fragmentos de código en los sitios web.
+2 Sus opciones 3D son limitadas, si se quiere utilizar este lenguaje de programación para crear un juego, deben emplearse otras herramientas.
+3 No es compatible en todos los navegadores de manera uniforme.
+4 Los usuarios tienen la opción de desactivar JavaScript desde su navegador.
+5 Sus script son limitados por razones de seguridad y no es posible realizar todo con JavaScript, por lo tanto es necesario     complementarlo con otros lenguajes evolucionados y más seguros. Esta es una de las características de JavaScript que algunos expertos lo contemplan como una ventaja y otros como una desventaja.
+
 
 
 ## Herramientas de desarrollo
