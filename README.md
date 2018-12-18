@@ -156,7 +156,7 @@ console.log(primos);
 ```
 
 
-<img src="numerosAleatorios.png">
+<img src="numerosAleatorios2.png">
 
 
 ## Presentación de resultados
