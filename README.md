@@ -67,16 +67,63 @@ Link de descarga: https://code.visualstudio.com/download
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
 
 ### 1. ¡Hola mundo!
-
+```javascript
+console.log("hola mundo");
+```
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 <img src="Captura1.PNG">
 
 ### 2. Pirámide
+```javascript
+var numFilas = prompt("Numero de filas");
 
+for(let altura = 1; altura<=numFilas; altura++){
+    //Espacios en blanco
+    for(let blancos = 1; blancos<=numFilas-altura; blancos++){
+        process.stdout.write(" ");
+    }
+     
+    //Asteriscos
+    for(let asteriscos=1; asteriscos<=(altura*2)-1; asteriscos++){
+        process.stdout.write("*");
+    }
+    console.log();
+} 
+```
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
 ### 3. Arrays y números aleatorios
-
+```javascript
+var arrayNumeros = [];
+for (let i = 0; i < 20; i++) {
+    var numeroAleatorio = Math.floor(Math.random() * 100) + 1;
+    arrayNumeros.push(numeroAleatorio);
+}
+var primos = [];
+for (let i = 0; i < arrayNumeros.length; i++) {
+    var contador = 0;
+    for (let j = 1; j <= arrayNumeros[i]; j++) {
+        if (arrayNumeros[i] % j == 0) {
+            contador++;
+        }
+    }
+    if (contador == 2) {
+        primos.push(arrayNumeros[i]);
+    }
+    contador = 0;
+}
+console.log("arrayOriginal: --------");
+console.log(arrayNumeros);
+console.log("primos----");
+console.log(primos);
+for (let i = 0; i < arrayNumeros.length; i++) {
+    if (primos.includes(arrayNumeros[i]) == false) {
+        primos.push(arrayNumeros[i]);
+    }
+}
+console.log("primos y no primos----");
+console.log(primos);
+```
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 
 ## Presentación de resultados
